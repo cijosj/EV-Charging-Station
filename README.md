@@ -1,2 +1,3 @@
 # EV-Charging-Station
-EV Charging stations across US
+
+Data shows a list of Charging stations across US
